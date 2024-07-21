@@ -11,7 +11,7 @@ Esta aplicación cuenta con:
 
 ● Página de detalle de localización
 
-Desde el punto de vista técnico, se ha utilizado:
+# Desde el punto de vista técnico, se ha utilizado:
 
 ● React-router-dom como enrutador
 
