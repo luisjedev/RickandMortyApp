@@ -28,3 +28,16 @@ Esta aplicación cuenta con:
 # Visita la web!
 
 La app se encuentra desplegada en vercel: https://rick-and-morty-app-luisjedevs-projects.vercel.app/
+
+To run the RickandMortyApp locally, follow these steps:
+
+# Instalación:
+
+git clone https://github.com/luisjedev/RickandMortyApp.git
+cd RickandMortyApp
+
+Install dependencies:
+pnpm i
+
+Run the app:
+pnpm run dev
