@@ -24,3 +24,7 @@ Esta aplicación cuenta con:
 ● Formulario fake para el envío de comentarios, utilizando fetch y la API pública https://jsonplaceholder.typicode.com/
 
 ● Diseño responsive con Flexbox y Grid utilizando Tailwindcss
+
+# Visita la web!
+
+La app se encuentra desplegada en vercel: https://rick-and-morty-app-luisjedevs-projects.vercel.app/
